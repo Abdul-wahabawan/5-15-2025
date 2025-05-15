@@ -46,6 +46,7 @@
                 width: 900px;
             border-radius: 20px;
             height: 400px;
+                        object-fit: cover;
 
             }
 
